@@ -1,6 +1,12 @@
 ---
 name: minions-oss-quality
-description: Linting rules, test coverage targets, usability checklists, and release gates
+id: OC-0139
+version: 1.0.0
+description: "Linting rules, test coverage targets, usability checklists, and release gates"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-oss-quality — Agent Skills
