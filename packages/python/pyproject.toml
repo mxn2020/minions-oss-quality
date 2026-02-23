@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-oss-quality"
-version = "0.1.0"
+version = "0.2.0"
 description = "Linting rules, test coverage targets, usability checklists, and release gates"
 readme = "README.md"
 license = { text = "MIT" }
