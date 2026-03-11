@@ -1,0 +1,8 @@
+name: "@minions-oss-quality/docs"
+project_scope: child
+child_type: docs
+parent_project: minions-oss-quality-workspace
+description: "Standard compliance definition for @minions-oss-quality/docs"
+priority: high
+deploy_url: null
+tags: null

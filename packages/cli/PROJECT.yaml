@@ -1,0 +1,8 @@
+name: "@minions-oss-quality/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-oss-quality-workspace
+description: "CLI for minions-oss-quality — Linting rules, test coverage targets, usability checklists, and release gates"
+priority: high
+deploy_url: null
+tags: null
