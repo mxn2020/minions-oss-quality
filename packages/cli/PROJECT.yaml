@@ -6,3 +6,4 @@ description: "CLI for minions-oss-quality — Linting rules, test coverage targe
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
