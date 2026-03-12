@@ -1,0 +1,16 @@
+name: minions-oss-quality-workspace
+project_scope: main
+project_type: monorepo
+description: Linting rules, test coverage targets, usability checklists, and release gates
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-oss-quality"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-oss-quality-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
